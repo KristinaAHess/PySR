@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.7.3](https://github.com/astroautomata/PySR/compare/v2.7.2...v2.7.3) (2026-11-14)
+
+
+### Performance Improvements
+
+* **julia_helpers:** convert lists with PythonCall.pyconvert ([#1425](https://github.com/astroautomata/PySR/issues/1425)) ([a14f593](https://github.com/astroautomata/PySR/commit/a14f593cfde61ec4c092fffd8208a4b77cbd80ac))
+
+
+### Documentation
+
+* drop contributor avatars from the pysr.ai homepage ([#1438](https://github.com/astroautomata/PySR/issues/1438)) ([59dbe45](https://github.com/astroautomata/PySR/commit/59dbe453a93df4305a263d0b8a5ed127cb2e3288))
+* refer to PySR 2.x instead of 2.0.0 in skill ([#1455](https://github.com/astroautomata/PySR/issues/1455)) ([dac3ae0](https://github.com/astroautomata/PySR/commit/dac3ae0894767eb98cd797c7207b03746fe1083c))
+
 ## [2.7.2](https://github.com/astroautomata/PySR/compare/v2.7.1...v2.7.2) (2026-10-18)
 
 
